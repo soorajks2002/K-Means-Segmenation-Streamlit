@@ -24,13 +24,13 @@ https://github.com/soorajks2002/K-Means-Segmenation-Streamlit/assets/59795959/cf
 Clone the project
 
 ```bash
-git clone https://github.com/soorajks2002/K-Means-Segmenation-Streamlit
+git clone https://github.com/soorajks2002/K-Pixel-Separator.git
 ```
 
 Go to the project directory
 
 ```bash
-cd K-Means-Segmenation-Streamlit
+cd K-Pixel-Separator
 ```
 
 Install dependencies
